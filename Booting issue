@@ -1,0 +1,11 @@
+RHEL7/CentOS 7 – Recover/Reinstall GRUB2 :
+
+1. Insert RHEL 7 / CentOS 7 latest DVD on the server or attach ISO image using ILO.
+2. In case of a Virtual machine, attach the ISO image to the VM.
+3. Boot the server using the DVD/ISO image.
+4.
+While the BIOS performs the POSTs tests, press a special key (Esc, F2, F11, F12, Del depending on the motherboard instructions) 
+Bootable Menu  : "CD-ROM"
+
+5. Choose "troubleshooting" option once the system is booted in DVD/ISO.
+6. select -----> " Resuce a CentOS/Redhat machine "
